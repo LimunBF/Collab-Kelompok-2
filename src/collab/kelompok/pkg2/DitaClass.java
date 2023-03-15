@@ -7,7 +7,7 @@ package collab.kelompok.pkg2;
 
 /**
  *
- * @author PC LABKOM
+ * @author dita
  */
 public class DitaClass {
     
